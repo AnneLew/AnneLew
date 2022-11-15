@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <p align="center">
   <samp>
     <a href=https://www.ifgg.kit.edu>ℹ️ website</a> |
-    <a href=https://www.researchgate.net/profile/Anne-Lewerentz>ℹ🤿 reserachgate</a> |
+    <a href=https://www.researchgate.net/profile/Anne-Lewerentz>🤿 reserachgate</a> |
     <a href=https://www.instagram.com/bio.diver.sity/>🖼️ instagram</a> |
     <a href=https://twitter.com/AnneLwr>💬 twitter</a>
   </samp>
