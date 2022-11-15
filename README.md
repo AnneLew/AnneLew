@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 <p align="center">
   <samp>
-    <a href="https://srfall.github.io">website</a> |
+    <a href=https://www.ifgg.kit.edu>website</a> |
     <a href=https://srfall.github.io/metaRange.html>science</a> |
-    <a href=https://srfall.github.io/NaturalHeritage.html>projects</a>
+    <a href=https://twitter.com/AnneLwr>twitter</a>
   </samp>
 </p>
 
