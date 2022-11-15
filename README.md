@@ -16,12 +16,13 @@ Here are some ideas to get you started:
 <p align="center">
   <samp>
     <a href=https://www.ifgg.kit.edu>website</a> |
-    <a href=https://srfall.github.io/metaRange.html>science</a> |
+    <a href=https://www.instagram.com/bio.diver.sity/>instagram</a> |
     <a href=https://twitter.com/AnneLwr>twitter</a>
   </samp>
 </p>
 
 ---
 
-I'm a PhD student at the [Ecosystem Modeling Group](https://www.biozentrum.uni-wuerzburg.de/cctb/research/ecosystem-modeling/) at the [Center for Computational & Theoretical Biology (CCTB)](https://www.biozentrum.uni-wuerzburg.de/cctb/cctb/)/ [University Würzburg](https://www.uni-wuerzburg.de). My main research interests are ecology and the impacts climate change will have on future biodiversity. At the moment I'm working on an R package called [metaRange](https://srfall.github.io/metaRange) (not public yet), in which I implement a mechanistic and metabolic explicit species distribution model.
+I am Geoecologist (M.sc., Karlsruhe Institut of Technology, 2016), Scientific diver (TU Munich, 2019) and PhD in [Ecosystem Modeling Group](https://www.biozentrum.uni-wuerzburg.de/cctb/research/ecosystem-modeling/)([Center for Computational & Theoretical Biology (CCTB)](https://www.biozentrum.uni-wuerzburg.de/cctb/cctb/), University of Würzburg, 2018-2022). Since 2022: PostDoc at Institute of Geography and Geoecology, Karlsruhe Institut of Technology. 
 
+My research focuses on Ecosystem Modeling, Macrophytes, Limnology, and Macroecology.
