@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ---
 
-I am Geoecologist (M.sc., Karlsruhe Institut of Technology, 2016), Scientific diver (TU Munich, 2019) and PhD in [Ecosystem Modeling](https://www.biozentrum.uni-wuerzburg.de/cctb/research/ecosystem-modeling/) ([Center for Computational & Theoretical Biology (CCTB)](https://www.biozentrum.uni-wuerzburg.de/cctb/cctb/), University of Würzburg, 2018-2022). 
+I am Geoecologist (M.sc., Karlsruhe Institut of Technology, 2016), Scientific diver (TU Munich, 2019) and have a PhD in [Ecosystem Modeling](https://www.biozentrum.uni-wuerzburg.de/cctb/research/ecosystem-modeling/) ([Center for Computational & Theoretical Biology (CCTB)](https://www.biozentrum.uni-wuerzburg.de/cctb/cctb/), University of Würzburg, 2018-2022). 
 
 Since 2022 I am working as PostDoc at the [Institute of Geography and Geoecology](https://www.ifgg.kit.edu/), Karlsruhe Institut of Technology. 
 
