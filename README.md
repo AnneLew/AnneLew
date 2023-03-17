@@ -21,6 +21,8 @@ Since 2022 I am working as PostDoc at the [Institute of Geography and Geoecology
 
 My research focuses on Ecosystem Modeling, Macrophytes, Limnology, and Macroecology.
 
+---
+
 <p align="center">
   <samp>
     <a href=https://www.ifgg.kit.edu>ℹ️ website</a> |
@@ -30,4 +32,4 @@ My research focuses on Ecosystem Modeling, Macrophytes, Limnology, and Macroecol
   </samp>
 </p>
 
----
+
